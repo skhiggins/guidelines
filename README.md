@@ -1,3 +1,5 @@
+# Overview
+
 This repository provides guidelines for new research assistants and research managers working with professors.
 It covers the administrative aspects of the role. Coding, programming, and data analysis aspects are covered in my 
 [R Guide](https://github.com/skhiggins/R_guide) and 
