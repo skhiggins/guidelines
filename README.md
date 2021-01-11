@@ -3,7 +3,7 @@ It covers the administrative aspects of the role. Coding, programming, and data 
 [R Guide](https://github.com/skhiggins/R_guide) and 
 [Python Guide](https://github.com/skhiggins/Python_guide).
 
-To be successful in this role, a key thing to understand is that *professors are super busy*. 
+To be successful in this role, a key thing to understand is that **professors are super busy**. 
 We are dividing our time between 
 - Teaching (preparing, teaching, meeting with students, grading)
 - Traveling the country and world to present our research at universities and conferences (or presenting on Zoom during COVID times)
@@ -25,8 +25,8 @@ We are dividing our time between
 - Analyzing data
 - Writing and revising papers
  
-What this means for you as a research assistant/research manager:
-- When you send emails, *highlight the important things for me to read in bold*.
+**What this means for you as a research assistant/research manager:**
+- When you send emails, **highlight the important things for me to read in bold**.
 - If there is an important email I have not responded to, don't just let it sit for more than a week -- send it again (and again and again).
 - If there is something you know I need to do for the project (e.g., send questions to a partner organization), remind me repeatedly by email and in the weekly call. Include this pending item in the agenda for the weekly call.
 - Never assume I've taken action based on an email you sent until I confirm taking action. If there are things that I tell you are top priority or time sensitive, once you send them to me continue to follow up and put this item at the top of the weekly call agenda to ensure that after receiving it from you I've taken the necessary action (e.g. submit it; forward it; etc.)
