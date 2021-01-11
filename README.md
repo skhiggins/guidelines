@@ -42,5 +42,9 @@ We are dividing our time between
 - Before our weekly calls, send an agenda.
 - After our weekly calls, send a call recap with to-do items.
 - Send a weekly email that includes your timesheet (and applicable GitHub/Dropbox/Box path), bullet points of the main things you did during the past week, and bullet points of your priorities for the next week.
-- For emails that I need to send to partners, send me a concise content draft including all relevant information, email addressees, email subject and any other details you consider important.
-- If you are preparing a report/delivery draft, first set up 1 day, 1 week and 2 week-deadline calendar reminders. Include people who need to review the draft in these calendar events. You must send me a draft at least 1 week (but ideally 2 weeks) before the delivery deadline, to make sure I have enough time to review and make the necessary changes. If I have not sent you a revised version, follow up on this during weekly project calls or earlier if the deadline is fast approaching.
+- For emails that I need to send, send me a concise draft including all relevant information, as well as:
+    - The email addresses of everyone who should receive or be copied on the email
+    - The email subject line 
+    - The file path for any documents that should be attached to the email
+    - Any other details you consider important
+- If you are preparing something with a hard deadline, such as a grant proposal or a deliverable for a funder, set up 1 day, 1 week and 2 week-deadline calendar reminders. Include people who need to review the draft in these calendar events. Send me a draft at least 1 week (but ideally 2 weeks) before the deadline to make sure I have enough time to review and make the necessary changes. If I have not sent you a revised version, follow up on this during weekly project calls or earlier if the deadline is fast approaching.
