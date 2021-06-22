@@ -34,9 +34,11 @@ We are dividing our time between
 - Never assume I've taken action based on an email you sent until I confirm taking action. If there are things that I tell you are top priority or time sensitive, once you send them to me continue to follow up and put this item at the top of the weekly call agenda to ensure that after receiving it from you I've taken the necessary action (e.g. submit it; forward it; etc.)
 - If it's not on my calendar, it does not exist. Ensure all project calls are on my calendar, with a zoom link if applicable and with the invitation to everyone who needs to be on the call. These calendar invites should be sent as early as possible to ensure that I know about these events on my calendar when scheduling other calls. (Note that I am not the only one who looks at my calendar to schedule calls, so me knowing about the call is not enough -- it has to be on my calendar.)
 - Whenever you attach a file to an email, that file must also be saved in our shared GitHub/Dropbox/Box, and you should write out the path to where the file is saved in the body of the email.
-- You will be the person most familiar with the details of the project and the items pending on a daily basis. Therefore, I trust that you will stay on top of them. Do not hesitate to remind me of project status details during weekly calls and, whenever possible/applicable, anticipate stakeholder/project needs and bring them to my attention if needed. 
+- You will be the person most familiar with the details of the project and the items pending on a daily basis. Therefore, please do not hesitate to remind me of project status details during weekly calls or by email and, whenever applicable, bring any deadlines or project needs that may not be on the top of my mind to my attention. 
+- Your fellow research assistants are also very valuable sources of information. Feel free to ask them any questions or doubts that you may have, as they have often encountered similar problems
+<!---
 - Notify me as soon as possible if you anticipate any delay in project deliverables, status, or other components that might impact project implementation.
-- Feel free to ask fellow research assistants/managers about any questions or doubts you may have. More often than not, you will find that they have encountered similar things when they first took on the role.
+--->
 
 # Organization
 - Before our weekly calls, send an agenda.
@@ -48,3 +50,4 @@ We are dividing our time between
     - The file path for any documents that should be attached to the email
     - Any other details you consider important
 - If you are preparing something with a hard deadline, such as a grant proposal or a deliverable for a funder, set up 1 day, 1 week and 2 week-deadline calendar reminders. Include people who need to review the draft in these calendar events. Send me a draft at least 1 week (but ideally 2 weeks) before the deadline to make sure I have enough time to review and make the necessary changes. If I have not sent you a revised version, follow up on this during weekly project calls or earlier if the deadline is fast approaching.
+--->
