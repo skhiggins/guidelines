@@ -49,4 +49,6 @@ We are dividing our time between
     - The email subject line 
     - The file path for any documents that should be attached to the email
     - Any other details you consider important
+<!---
 - If you are preparing something with a hard deadline, such as a grant proposal or a deliverable for a funder, set up 1 day, 1 week and 2 week-deadline calendar reminders. Include people who need to review the draft in these calendar events. Send me a draft at least 1 week (but ideally 2 weeks) before the deadline to make sure I have enough time to review and make the necessary changes. If I have not sent you a revised version, follow up on this during weekly project calls or earlier if the deadline is fast approaching.
+--->
